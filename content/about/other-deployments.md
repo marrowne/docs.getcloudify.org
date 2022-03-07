@@ -1,7 +1,7 @@
 +++
-title = "Downloads"
-description = "For advanced users, this page contains all of Cloudify's deployment packages"
-weight = 99
+title = "Downloads And Release Notes"
+description = "This page contains all of Cloudify's deployment packages and Release Notes"
+weight = 210
 alwaysopen = false
 +++
 
