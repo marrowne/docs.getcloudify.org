@@ -1,5 +1,5 @@
 +++
-title = "Downloads And Release Notes"
+title = "Downloads and Release Notes"
 description = "This page contains all of Cloudify's deployment packages and Release Notes"
 weight = 210
 alwaysopen = false
